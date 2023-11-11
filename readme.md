@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Sanjay Bombe</h1>
 <h3 align="center">A Software Engineer </h3>
-<h4 align="center">I am a recent graduate with a strong foundation in full-stack Java development, particularly well-versed in the MERN stack (MongoDB, Express.js, React.js, Node.js), and skilled in languages such as Java, C++, Python, and C#. </h4>
+<h4 align="center">I am a recent graduate as a Software Engineer skilled in languages such as Java, C++, Python, and C# having good knowledge in full-stack Java development, particularly well-versed in the MERN stack.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavbombe&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavbombe" /> </p>
 
