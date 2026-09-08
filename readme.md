@@ -1,32 +1,91 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Sanjay Bombe</h1>
-<h3 align="center">A Software Engineer </h3>
-<h4 align="center">I am a recent graduate as a Software Engineer skilled in languages such as Java, C++, Python, and C# having good knowledge in full-stack Java development, particularly well-versed in the MERN stack.</h4>
+# Hi, I'm Vaibhav Bombe 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavbombe&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavbombe" /> </p>
+Software Development Engineer with 2+ years of full-stack experience building and scaling a unified business management platform at **Datadynamx Pvt Ltd.** I lead a small team of developers, own task distribution, and provide technical and architectural mentorship — while partnering with Business Analysts to turn business requirements into scalable engineering solutions.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavbombe" alt="vaibhavbombe" /></a> </p>
+I've built centralized engines and shared components reused across multiple applications, and I care about writing clean, reusable, production-grade code.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/@vabby13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@vabby13" height="30" width="40" /></a>
-<a href="https://twitter.com/bombe_sanjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bombe_sanjay" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vaibhav-bombe-89a9321b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaibhav-bombe-89a9321b7/" height="30" width="40" /></a>
-</p>
+- 🔭 Currently building a unified business management platform ([biCanvas](https://bicanvas.com)) at Datadynamx Pvt Ltd.
+- 🌱 Growing further into technical leadership while continuing to ship high-impact software
+- 💬 Ask me about Node.js, MongoDB, React, and system architecture
+- 📫 Reach me at **vaibhavbombe2017@gmail.com**
+- 🔗 [LinkedIn](https://linkedin.com/in/vabby13)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
-    <a href="https://angular.io/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-    </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavbombe&show_icons=true&locale=en&layout=compact" alt="vaibhavbombe" /></p>
+## 🛠️ Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavbombe&show_icons=true&locale=en" alt="vaibhavbombe" /></p>
+**Languages & Core**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavbombe&" alt="vaibhavbombe" /></p>
+**Frameworks & Libraries**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+
+**Databases**
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Tools & Practices**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+REST APIs • UI/UX Design • Technical Mentorship • Team Leadership • Agile Development • Performance Optimization
+
+---
+
+## 🚀 Featured Projects
+
+### [biCanvas](https://bicanvas.com) — Datadynamx Pvt Ltd.
+Unified business management platform covering procurement, sales, CRM, asset management, and HRM.
+- Built a stateful **tender-to-work-order** procurement pipeline with live vendor bidding, automated vendor email notifications, and FIAC payment reconciliation
+- Built a **GST-compliant sales & delivery flow** with e-invoice/e-way bill generation, event-driven SMS/WhatsApp notifications, and real-time vehicle tracking via the WheelEye GPS API
+- Built an end-to-end **construction CRM** unifying call, WhatsApp, and email into a single lead-to-customer timeline
+- Built **asset management** with preventive maintenance scheduling and configurable multi-format reporting
+- Built **HRM** payment processing and geofenced, live-location attendance tracking for field employees
+- Diagnosed and fixed critical production performance bottlenecks by rewriting network-call logic in pure JavaScript; wrote and optimized complex multi-query MongoDB operations at scale
+
+### [AGROFAM](https://agrofam.up.railway.app)
+Multilingual full-stack platform helping farmers share agricultural knowledge in their native languages.
+- Integrated NLP features — text summarization, translation, and sentiment analysis — to make agricultural content locally relevant and accessible
+
+---
+
+## 💼 Experience
+
+**Software Development Engineer** — Datadynamx Pvt Ltd. · *Apr 2024 – Present*
+Leading a development team, architecting shared platform components, and driving full-stack delivery on Node.js, MongoDB, and React.
+
+**Front-End Developer Intern** — Synkrama Technologies · *Jan 2023 – Mar 2023*
+Hands-on experience with React's component-based architecture, state management, and the broader React ecosystem.
+
+---
+
+## 🎓 Education
+
+**B.E., Computer Engineering** — MESCOE · GPA 8.88/10 · *Jun 2023*
+
+---
+
+## 📜 Certifications
+
+- Future Ready Talent Internship — Microsoft Azure
+- Data Science (Honors Degree)
+- Full Stack Java Development — Symbiosis Digital Academy
+- Data Analysis with Python — freeCodeCamp
+
+---
+
+## 📊 GitHub Stats
+
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavbombe&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavbombe&layout=compact)
+
+---
+
+📫 **vaibhavbombe2017@gmail.com** | 🔗 [LinkedIn](https://linkedin.com/in/vabby13) | 📍 Pune, Maharashtra, India
