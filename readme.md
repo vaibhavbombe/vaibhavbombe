@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm Vaibhav Bombe 👋</h1>
-<h3 align="center">Full-Stack Developer | Node.js • React • MongoDB | Open to Freelance 🚀</h3>
+<h3 align="center">Full-Stack Developer | Node.js • React • MongoDB | Open to Contract Work 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+with+Node.js+%2B+React+%2B+MongoDB;Learning+AI+%2F+ML+every+day;Open+for+Freelance+Projects;Always+exploring+new+tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+with+Node.js+%2B+React+%2B+MongoDB;Learning+AI+%2F+ML+every+day;Open+for+Contract+Work;Always+exploring+new+tech" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Available%20for-Freelance-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Available%20for-Contract%20Work-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Currently%20Learning-AI%2FML-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20To-New%20Tech-orange?style=for-the-badge" />
 </p>
@@ -18,7 +18,7 @@
 - 💼 Software Development Engineer, currently leading a dev team at **Datadynamx Pvt Ltd.**
 - 🛠️ I build full-stack products end-to-end — from database to UI
 - 🤖 Currently diving deep into **AI/ML**, always experimenting with something new
-- 🌍 Available for **freelance & contract work** — reach out if you have something interesting to build
+- 🌍 Available for **contract & collaborative work** — reach out if you have something interesting to build
 - ⚡ Fast learner, comfortable jumping into new stacks and tools
 - 📫 vaibhavbombe2017@gmail.com | [LinkedIn](https://linkedin.com/in/vabby13)
 
@@ -68,5 +68,5 @@
 ---
 
 <p align="center">
-  🤝 Got a project in mind? Let's talk — always up for freelance work and new challenges.
+  🤝 Got a project in mind? Let's talk — always up for contract work and new challenges.
 </p>
